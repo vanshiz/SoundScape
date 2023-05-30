@@ -1,0 +1,16 @@
+ c1 BigHit Spotify B Dynamite 2012 2026 
+ c2 BigHit WynkMusic B butter 2007 2028
+ c3 BigHit JioSaavan B DNA 2012 2027
+ c4 BigHit MusicTV J Sorry 2010 2023 
+ c5 Dharma Spotify J STAY 2012 2026 
+ c6 Dharma WynkMusic J Honest 2007 2028
+ c7 Dharma JioSaavan J Believe 2012 2027
+ c8 Dharma MusicTV E MockingBird 2010 2023
+ c9 sony Spotify E MockingBird 2012 2026 
+ c10 sony WynkMusic E MockingBird 2007 2028
+ c11 sony JioSaavan E MockingBird 2012 2027
+ c12 ZeeMusic MusicTV E MockingBird 2010 2023
+ c13 ZeeMusic Spotify R Sunshine 2012 2026 
+ c14 ZeeMusic WynkMusic R Sunshine 2007 2028
+ c15 ZeeMusic JioSaavan R Sunshine 2012 2027
+ c16 OR MusicTV R Sunshine 2010 2023
